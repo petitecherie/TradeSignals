@@ -1,0 +1,33 @@
+
+30  Guilt 
+50  Apathy 
+75  Grief 
+100  Fear 
+125  Desire 
+150  Anger 
+175  Pride
+200  Courage 
+250  Neutrality
+310  Willingness 
+350  Acceptance 
+400  Reason 
+500  Love 
+540  Joy 
+600  Peace 
+700-1000  Enlightenment 
+				Congratulations!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

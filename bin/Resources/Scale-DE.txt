@@ -1,0 +1,19 @@
+
+20  Scham, Schande, Erniedrigung, Ausmerzung
+30  Schuld, Bosheit, Zerstörung
+50  Apathie, Hoffnungslosigkeit, Aufgabe
+75  Trauer, Scheitern, Kummer, Verzweiflung
+100  Angst, Ängstlichkeit, Rückzug
+125  Verlangen, Begierde, Selbstversklavung
+150  Ärger, Wut, Hass, Aggression
+175  Stolz, Verachtung, Angeberei
+200  Mut, Zivilcourage, Bejahung, Lauterkeit
+250  Neutralität, Zuversicht, Loslassen
+310  Bereitwilligkeit, Optimismus, Intention
+350  Akzeptanz, Enthusiasmus, Produktivität, Verzeihen, weltlicher Erfolg
+400  Vernunft, Verständnis, Abstraktion, Wissenschaft
+500  Liebe, Verehrung, Schönheit, Dankbarkeit, Offenbarung
+540  Freude, bedingungslose Liebe, Vergebung
+600  Frieden, Glückseligkeit, Durchlichtung
+700-1000  Erleuchtung, reines Bewusstsein, unbeschreibbar
+					Gratulieren!
